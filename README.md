@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47utijkauvhsspn9d0qffmwg7zt7lsb8ixw0ncxxqu&rid=giphy.gif&ct=g" align="center" style="width: 50%" />
+<img src="https://media2.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=ecf05e47utijkauvhsspn9d0qffmwg7zt7lsb8ixw0ncxxqu&rid=giphy.gif&ct=g" align="center" style="width: 30%" />
 </div>  
   
 
@@ -43,8 +43,6 @@ I'm Fauzi Alvan Fadillah
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>  
 
 <div align="center">  
