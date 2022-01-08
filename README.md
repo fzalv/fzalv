@@ -56,5 +56,7 @@ I'm Fauzi Alvan Fadillah
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzalv&hide_border=true&layout=compact" align="left" /></div>  
-<img src="https://github-readme-stats.vercel.app/api?username=fzalv&show_icons=true&count_private=true&hide_border=true" align="right" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzalv&hide_border=true&layout=compact" align="left" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=fzalv&show_icons=true&count_private=true&hide_border=true" align="right" />
+</div>
